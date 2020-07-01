@@ -89,7 +89,6 @@ function denyRequest (req, res) {
     return res.sendStatus(400);
 }
 
-// 获取当前服务器列表(json)
 function apiGetServerList(req, res) {
     if(apiIsKeyFromRequestIsBad(req))
     {
