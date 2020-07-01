@@ -4,7 +4,7 @@
 
 * 执行命令：
 
-  `npm install`
+  `npm install --only=production`
 
   `node index.js`
   
