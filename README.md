@@ -4,6 +4,9 @@
 
 * 执行命令：
 
-  `node index.js`
+  `node install`
 
+  `node index.js`
   
+  
+
