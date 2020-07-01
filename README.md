@@ -4,7 +4,7 @@
 
 * 执行命令：
 
-  `node install`
+  `npm install`
 
   `node index.js`
   
