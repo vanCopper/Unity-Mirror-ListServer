@@ -1,0 +1,20 @@
+{
+  "name": "BattleBotsListServer",
+  "version": "1.0.0",
+  "description": "NodeJS ListServer for BattleBots Project",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-rate-limit": "^5.0.0",
+    "log4js": "^6.1.2",
+    "multi-ini": "^2.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "vanCopper",
+  "license": "MIT",
+  "repository": "https://github.com/HANKM3NG/Survivor2"
+}
