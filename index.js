@@ -90,7 +90,6 @@ function denyRequest (req, res) {
 }
 
 function apiGetServerList(req, res) {
-    loggerInstance.info(`Get server list from: ${req.serverKey}`);
     if(apiIsKeyFromRequestIsBad(req))
     {
         return res.sendStatus(400);
