@@ -4,8 +4,8 @@
   "description": "NodeJS ListServer for BattleBots Project",
   "main": "index.js",
   "dependencies": {
-    "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "express-rate-limit": "^5.0.0",
     "log4js": "^6.1.2",
     "multi-ini": "^2.1.0"
